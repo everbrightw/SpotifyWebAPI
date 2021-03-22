@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project background
+This is a course project(cs498RK)that i did when i was in UIUC.I developed a webpage using react and Spotify API that can fetch new releases songs from spotify and search singers and songs you like.
+The original repo is at https://gitlab.com/yusenw2/mp2
 
 ## Webpage Screenshots
-
 
 ![Alt text](screenshots/s1.png?raw=true "GUI")
 ![Alt text](screenshots/s2.png?raw=true "GUI")
