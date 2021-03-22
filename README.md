@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Webpage Screenshots
 
 
-![Alt text](screenshots/WechatMG1.png?raw=true "GUI")
-![Alt text](screenshots/WechatMG3.png?raw=true "GUI")
-![Alt text](screenshots/WechatMG4.png?raw=true "GUI")
+![Alt text](screenshots/s1.png?raw=true "GUI")
+![Alt text](screenshots/s2.png?raw=true "GUI")
+![Alt text](screenshots/s3.png?raw=true "GUI")
 
 
 ## Available Scripts
